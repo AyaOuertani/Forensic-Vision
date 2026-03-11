@@ -16,11 +16,6 @@ The first phase focuses on "Hard Science" — using mathematical computer vision
 *   **OpenCV** (Image Processing)
 *   **NumPy** (Matrix Math)
 
-### Sample Output:
-| Original Evidence | Processed & Measured |
-|---|---|
-| ![Original](data/footprint.jpg) | ![Result](outputs/measured_footprint.jpg) |
-
 ---
 ## 📈 Roadmap
 - [x] **Level 1:** Basics, Geometry, and Measurement.
